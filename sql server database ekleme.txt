@@ -1,0 +1,3 @@
+klosör aç models o klosöre sað týýkla add sonra new item týkla soldan data yý seç en üstekini seç
+sonra nextte týkla sonra orda dur ve new connection týkla sonra server name . yap hepsini algýlamasý içöin 
+select or enter a database name den database ismi neyse onu bul sonra ki ekranda tables týkla
